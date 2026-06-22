@@ -26,11 +26,9 @@ L’obiettivo è sistematizzare la produzione intellettuale a diversi livelli di
 
 ## 2. Publications | Publicaciones
 
-
-Ledesma, Adrian (2022)
-
-Ucrania: la punta del iceberg. Hacia un nuevo hegemón y un nuevo sistema de relaciones internacionales
+**Ledesma, Adrian (2022). Ucrania: la punta del iceberg. Hacia un nuevo hegemón y un nuevo sistema de relaciones internacionales**
 [Ukraine: The Tip of the Iceberg. Towards a New Hegemon and a New System of International Relations]
+Paper presented at the XI Sociology Conference, National University of La Plata (UNLP).
 
 XI Jornadas de Sociología de la Universidad Nacional de La Plata (UNLP), Mesa 9: Dinámica de la crisis global. Hacia una Geopolítica del siglo XXI.
 
@@ -38,10 +36,9 @@ Abstract. This paper examines the Russo-Ukrainian war across local, regional, an
 
 ◉ ["Conference Record"](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) | ◉ ["Full Text (PDF)"](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
 
-Ledesma, Adrian (2022)
-
-Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje
+**Ledesma, Adrian (2022). Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje**
 [Pandemic and Post-Pandemic Capitalism? Analytical Tools for Its Interpretation]
+Paper presented at the XIV Sociology Conference, Faculty of Social Sciences, University of Buenos Aires (UBA).
 
 XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Buenos Aires (UBA), Buenos Aires.
 
