@@ -1,4 +1,4 @@
-# CV | Curriculum Vitae - Adrian Ledesma
+# CV | Curriculum Vitae - Adrian Ledesma 🇬🇧🇪🇸🇮🇹
 
 GB - Repository of academic, intellectual, and public-facing production. It brings together peer-reviewed publications, working documents, essays, research notes, and public dissemination writings.
 
