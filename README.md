@@ -36,7 +36,7 @@ XI Jornadas de Sociología de la Universidad Nacional de La Plata (UNLP), Mesa 9
 
 Abstract. This paper examines the Russo-Ukrainian war across local, regional, and international scales, arguing that the conflict reflects a broader restructuring of the international system. It contends that the Russian invasion was linked to perceptions of declining U.S. hegemony in the aftermath of the pandemic, the European rearmament process following the Merkel era, and growing competition over the shape of a new world order. The study analyzes the strategic interactions among the United States, Europe, Russia, China, and India, proposing that the war in Ukraine has become a key driver of contemporary hegemonic transition and the transformation of twenty-first-century international relations.
 
-◉ "Conference Record" (https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) | ◉ "Full Text (PDF)" (https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
+◉ ["Conference Record"](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) | ◉ ["Full Text (PDF)"](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
 
 Ledesma, Adrian (2022)
 
@@ -47,7 +47,7 @@ XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Bueno
 
 Abstract. This paper examines the concepts of neoliberalism, globalization, mondialization, imperialism, and capitalism in light of the simultaneous pandemic and global economic crises. Through a critical dialogue with diverse theoretical perspectives, it seeks to clarify the analytical boundaries of these categories in order to identify continuities and ruptures within contemporary capitalist social formations. The study also explores the prospects for capitalist transformation in the aftermath of the pandemic and evaluates the challenges posed by these processes for social, environmental, territorial, indigenous, and feminist movements amid the broader political and economic restructuring of the twenty-first century.
 
-◉ "Conference Record" (https://www.aacademica.org/adrian.ledesma/3) | ◉ "Full Text (PDF)" (https://www.aacademica.org/adrian.ledesma/3.pdf)
+◉ ["Conference Record"](https://www.aacademica.org/adrian.ledesma/3) | ◉ ["Full Text (PDF)"](https://www.aacademica.org/adrian.ledesma/3.pdf)
 
 ## 3. Essays | Ensayos
 
