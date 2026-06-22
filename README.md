@@ -33,6 +33,15 @@ L’obiettivo è sistematizzare la produzione intellettuale a diversi livelli di
 
 [📄 Registro de la ponencia](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) · [⬇️ Texto completo (PDF)](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
 
+<a href="https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636">📄 Registro</a>
+&nbsp;
+<a href="https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf">⬇️ PDF</a>
+
+Ledesma, Adrian (2022). Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje. Ponencia publicada en las XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Buenos Aires (UBA), Buenos Aires.
+
+Abstract: El trabajo examina los conceptos de neoliberalismo, globalización, mundialización, imperialismo y capitalismo a la luz de la crisis pandémica y económica global. A partir del diálogo crítico con diversos autores, busca delimitar conceptualmente estas categorías para identificar continuidades y rupturas en la formación social capitalista contemporánea. Asimismo, explora las perspectivas de transformación del capitalismo frente a la crisis, considerando los desafíos planteados a los movimientos sociales, ambientales, territoriales, indígenas y feministas en el contexto de las reestructuraciones económicas y políticas del siglo XXI.
+
+"📄 Registro en Acta Académica" (https://www.aacademica.org/adrian.ledesma/3) · "⬇️ Texto completo (PDF)" (https://www.aacademica.org/adrian.ledesma/3.pdf)
 
 ## 3. Essays | Ensayos
 
