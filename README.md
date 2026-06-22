@@ -26,6 +26,14 @@ L’obiettivo è sistematizzare la produzione intellettuale a diversi livelli di
 
 ## 2. Publications | Publicaciones
 
+
+**Ledesma, Adrian (2022).** *Ucrania: la punta del iceberg. Hacia un nuevo hegemón y un nuevo sistema de relaciones internacionales*. Ponencia publicada en las Actas de las XI Jornadas de Sociología de la UNLP.
+
+**Abstract:** El trabajo analiza la guerra ruso-ucraniana en múltiples escalas —local, regional e internacional— y propone que el conflicto expresa una reestructuración más profunda del sistema internacional. Se sostiene que la invasión rusa estuvo vinculada a la percepción de debilitamiento de la hegemonía estadounidense tras la pandemia, al rearme europeo posterior a la era Merkel y a la competencia por la configuración de un nuevo orden mundial. El artículo examina las tensiones entre Estados Unidos, Europa, Rusia, China e India, y plantea que la guerra de Ucrania constituye un factor dinamizador de la transición hegemónica contemporánea y de la transformación de las relaciones internacionales del siglo XXI.
+
+[📄 Registro de la ponencia](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) · [⬇️ Texto completo (PDF)](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
+
+
 ## 3. Essays | Ensayos
 
 Textos analíticos no arbitrados con desarrollo conceptual o intervención teórica.
