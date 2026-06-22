@@ -1,14 +1,14 @@
-# CV | Curriculum Vitae - Adrian Ledesma 🇬🇧🇪🇸🇮🇹
+# CV | Curriculum Vitae - Adrian Ledesma 
 
-GB - Repository of academic, intellectual, and public-facing production. It brings together peer-reviewed publications, working documents, essays, research notes, and public dissemination writings.
+GB 🇬🇧 - Repository of academic, intellectual, and public-facing production. It brings together peer-reviewed publications, working documents, essays, research notes, and public dissemination writings.
 
 The objective is to systematize intellectual output across different levels of formalization and enable traceability between ongoing research, preliminary versions, and final published works.
 
-ES - Repositorio de producción académica, intelectual y de divulgación. Reúne publicaciones arbitradas, documentos de trabajo, ensayos, notas de investigación y escritos de difusión pública.
+ES 🇪🇸- Repositorio de producción académica, intelectual y de divulgación. Reúne publicaciones arbitradas, documentos de trabajo, ensayos, notas de investigación y escritos de difusión pública.
 
 El objetivo es sistematizar la producción intelectual en distintos niveles de formalización y permitir trazabilidad entre investigación en curso, versiones preliminares y publicaciones finales.
 
-IT - Repository di produzione accademica, intellettuale e di divulgazione. Raccoglie pubblicazioni sottoposte a revisione paritaria, documenti di lavoro, saggi, note di ricerca e scritti di divulgazione pubblica.
+IT 🇮🇹- Repository di produzione accademica, intellettuale e di divulgazione. Raccoglie pubblicazioni sottoposte a revisione paritaria, documenti di lavoro, saggi, note di ricerca e scritti di divulgazione pubblica.
 
 L’obiettivo è sistematizzare la produzione intellettuale a diversi livelli di formalizzazione e permettere la tracciabilità tra la ricerca in corso, le versioni preliminari e le pubblicazioni finali.
 
