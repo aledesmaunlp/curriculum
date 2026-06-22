@@ -27,21 +27,27 @@ L’obiettivo è sistematizzare la produzione intellettuale a diversi livelli di
 ## 2. Publications | Publicaciones
 
 
-**Ledesma, Adrian (2022).** *Ucrania: la punta del iceberg. Hacia un nuevo hegemón y un nuevo sistema de relaciones internacionales*. Ponencia publicada en las Actas de las XI Jornadas de Sociología de la UNLP.
+Ledesma, Adrian (2022)
 
-**Abstract:** El trabajo analiza la guerra ruso-ucraniana en múltiples escalas —local, regional e internacional— y propone que el conflicto expresa una reestructuración más profunda del sistema internacional. Se sostiene que la invasión rusa estuvo vinculada a la percepción de debilitamiento de la hegemonía estadounidense tras la pandemia, al rearme europeo posterior a la era Merkel y a la competencia por la configuración de un nuevo orden mundial. El artículo examina las tensiones entre Estados Unidos, Europa, Rusia, China e India, y plantea que la guerra de Ucrania constituye un factor dinamizador de la transición hegemónica contemporánea y de la transformación de las relaciones internacionales del siglo XXI.
+Ucrania: la punta del iceberg. Hacia un nuevo hegemón y un nuevo sistema de relaciones internacionales
+[Ukraine: The Tip of the Iceberg. Towards a New Hegemon and a New System of International Relations]
 
-[📄 Registro de la ponencia](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) · [⬇️ Texto completo (PDF)](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
+XI Jornadas de Sociología de la Universidad Nacional de La Plata (UNLP), Mesa 9: Dinámica de la crisis global. Hacia una Geopolítica del siglo XXI.
 
-<a href="https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636">📄 Registro</a>
-&nbsp;
-<a href="https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf">⬇️ PDF</a>
+Abstract. This paper examines the Russo-Ukrainian war across local, regional, and international scales, arguing that the conflict reflects a broader restructuring of the international system. It contends that the Russian invasion was linked to perceptions of declining U.S. hegemony in the aftermath of the pandemic, the European rearmament process following the Merkel era, and growing competition over the shape of a new world order. The study analyzes the strategic interactions among the United States, Europe, Russia, China, and India, proposing that the war in Ukraine has become a key driver of contemporary hegemonic transition and the transformation of twenty-first-century international relations.
 
-**Ledesma, Adrian (2022). Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje. Ponencia publicada en las XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Buenos Aires (UBA), Buenos Aires.
+◉ "Conference Record" (https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) | ◉ "Full Text (PDF)" (https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
 
-Abstract: El trabajo examina los conceptos de neoliberalismo, globalización, mundialización, imperialismo y capitalismo a la luz de la crisis pandémica y económica global. A partir del diálogo crítico con diversos autores, busca delimitar conceptualmente estas categorías para identificar continuidades y rupturas en la formación social capitalista contemporánea. Asimismo, explora las perspectivas de transformación del capitalismo frente a la crisis, considerando los desafíos planteados a los movimientos sociales, ambientales, territoriales, indígenas y feministas en el contexto de las reestructuraciones económicas y políticas del siglo XXI.
+Ledesma, Adrian (2022)
 
-"📄 Registro en Acta Académica" (https://www.aacademica.org/adrian.ledesma/3) · "⬇️ Texto completo (PDF)" (https://www.aacademica.org/adrian.ledesma/3.pdf)
+Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje
+[Pandemic and Post-Pandemic Capitalism? Analytical Tools for Its Interpretation]
+
+XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Buenos Aires (UBA), Buenos Aires.
+
+Abstract. This paper examines the concepts of neoliberalism, globalization, mondialization, imperialism, and capitalism in light of the simultaneous pandemic and global economic crises. Through a critical dialogue with diverse theoretical perspectives, it seeks to clarify the analytical boundaries of these categories in order to identify continuities and ruptures within contemporary capitalist social formations. The study also explores the prospects for capitalist transformation in the aftermath of the pandemic and evaluates the challenges posed by these processes for social, environmental, territorial, indigenous, and feminist movements amid the broader political and economic restructuring of the twenty-first century.
+
+◉ "Conference Record" (https://www.aacademica.org/adrian.ledesma/3) | ◉ "Full Text (PDF)" (https://www.aacademica.org/adrian.ledesma/3.pdf)
 
 ## 3. Essays | Ensayos
 
