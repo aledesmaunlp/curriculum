@@ -36,7 +36,7 @@ Abstract. This paper examines the Russo-Ukrainian war across local, regional, an
 
 ◉ ["Conference Record"](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636) | ◉ ["Full Text (PDF)"](https://congresos.fahce.unlp.edu.ar/jornadassociologia/xi-jornadas/actas/ponencia-220628003135731636/@@display-file/file/LedesmaPONmesa09.pdf)
 
-**Ledesma, Adrian (2022). Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje**
+**Ledesma, Adrian (2021). Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje**
 [Pandemic and Post-Pandemic Capitalism? Analytical Tools for Its Interpretation]
 Paper presented at the XIV Sociology Conference, Faculty of Social Sciences, University of Buenos Aires (UBA).
 
@@ -45,6 +45,13 @@ XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Bueno
 Abstract. This paper examines the concepts of neoliberalism, globalization, mondialization, imperialism, and capitalism in light of the simultaneous pandemic and global economic crises. Through a critical dialogue with diverse theoretical perspectives, it seeks to clarify the analytical boundaries of these categories in order to identify continuities and ruptures within contemporary capitalist social formations. The study also explores the prospects for capitalist transformation in the aftermath of the pandemic and evaluates the challenges posed by these processes for social, environmental, territorial, indigenous, and feminist movements amid the broader political and economic restructuring of the twenty-first century.
 
 ◉ ["Conference Record"](https://www.aacademica.org/adrian.ledesma/3) | ◉ ["Full Text (PDF)"](https://www.aacademica.org/adrian.ledesma/3.pdf)
+
+Ledesma, Adrian (202X). Literatura anti estatista del socialismo argentino (1930–1962): Un primer acercamiento
+[Anti-statist literature of Argentine socialism (1930–1962): A first approach]
+Paper presented at the XVIII Interescuelas / History Departments Conference, National University of Santiago del Estero.
+XVIII Jornadas Interescuelas / Departamentos de Historia, Universidad Nacional de Santiago del Estero, Santiago del Estero, Argentina.
+Abstract. The paper examines the intellectual and political positions within Argentine socialism regarding state intervention, nationalization processes, and the role of the state in economic planning between the crisis of 1930 and the early 1960s. It analyzes socialist press and political debates in relation to broader ideological disputes on the nature of state-led economic transformation, situating these discussions within the historiography of twentieth-century Argentine political thought.
+◉ "Conference Record"⁠� | ◉ "Full Text"⁠�
 
 ## 3. Essays | Ensayos
 
