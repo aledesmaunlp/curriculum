@@ -154,16 +154,16 @@ IT - Storico, docente e ricercatore in formazione con una prospettiva multidisci
 🟩 **Ledesma, A. (2021).** *Capitalismo pandémico y ¿pospandémico? Herramientas analíticas para su abordaje* [Pandemic and Post-Pandemic Capitalism? Analytical Tools for Its Interpretation]. XIV Jornadas de Sociología, Facultad de Ciencias Sociales, Universidad de Buenos Aires (UBA).  
 ◉ 🟩 [Conference Record](https://www.aacademica.org/adrian.ledesma/3) | ◉ 🟩 [Full Text (PDF)](https://www.aacademica.org/adrian.ledesma/3.pdf)
 
-🟨 **Ledesma, A. (2022).** *Literatura anti estatista del socialismo argentino (1930‑1962): Un primer acercamiento* [Anti‑statist literature of Argentine socialism (1930–1962): A first approach]. XVIII Jornadas Interescuelas / Departamentos de Historia, Universidad Nacional de Santiago del Estero.  
-◉ 🟨 Conference Record | ◉ 🟨 Full Text
+🟩 **Ledesma, A. (2022).** *Literatura anti estatista del socialismo argentino (1930‑1962): Un primer acercamiento* [Anti‑statist literature of Argentine socialism (1930–1962): A first approach]. XVIII Jornadas Interescuelas / Departamentos de Historia, Universidad Nacional de Santiago del Estero.  
+◉ 🟨 Conference Record | ◉ 🟩 (Full Text)[https://www.aacademica.org/adrian.ledesma/2.pdf]
 
 ### 9.2. Artículos científicos y preprints | Scientific papers and preprints
 
 🟩 **Ledesma, A. (2026).** *La nueva arquitectura hemisférica: Venezuela como laboratorio de transición reaccionaria en América Latina* (Version 1.0). Zenodo.  
 ◉ 🟩 [DOI / Full Text](https://doi.org/10.5281/zenodo.18147332)
 
-🟨 **Ledesma, A. (2024).** Reseña bibliográfica de Georgy R. Smulewicz‑Zucker (ed.), *Confronting Reification: Revitalizing Georg Lukács’s Thought in Late Capitalism*. Publicada en México.  
-◉ 🟨 Full Text
+🟩 **Ledesma, A. (2024).** Reseña bibliográfica de Georgy R. Smulewicz‑Zucker (ed.), *Confronting Reification: Revitalizing Georg Lukács’s Thought in Late Capitalism*. Publicada en México.  
+◉ 🟩 [Full Text ](https://intervencionycoyuntura.org/resena-de-confronting-reification/)
 
 ### 9.3. Ensayos en Substack | Essays on Substack
 
