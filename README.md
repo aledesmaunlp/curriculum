@@ -1,4 +1,4 @@
-🟩 CV | Curriculum Vitae – Adrián Ledesma
+🟩 CV | Curriculum Vitae – Adrián Ledesma  [Full CV](https://github.com/aledesmaunlp/curriculum/blob/main/general_cv.md)
 
 GB – Repository of academic, intellectual, and public-facing production. It brings together peer-reviewed publications, working documents, essays, research notes, public dissemination writings, and a complete record of my academic and professional trajectory.
 
