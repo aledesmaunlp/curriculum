@@ -155,7 +155,7 @@ IT - Storico, docente e ricercatore in formazione con una prospettiva multidisci
 ◉ 🟩 [Conference Record](https://www.aacademica.org/adrian.ledesma/3) | ◉ 🟩 [Full Text (PDF)](https://www.aacademica.org/adrian.ledesma/3.pdf)
 
 🟩 **Ledesma, A. (2022).** *Literatura anti estatista del socialismo argentino (1930‑1962): Un primer acercamiento* [Anti‑statist literature of Argentine socialism (1930–1962): A first approach]. XVIII Jornadas Interescuelas / Departamentos de Historia, Universidad Nacional de Santiago del Estero.  
-◉ 🟨 Conference Record | ◉ 🟩 (Full Text)[https://www.aacademica.org/adrian.ledesma/2.pdf]
+◉ 🟨 Conference Record | ◉ 🟩 [Full Text](https://www.aacademica.org/adrian.ledesma/2.pdf)
 
 ### 9.2. Artículos científicos y preprints | Scientific papers and preprints
 
