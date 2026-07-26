@@ -10,4 +10,4 @@ Historian, professor, and early-career researcher with a multidisciplinary backg
 
 This repository serves as the central access point to my academic, technical, and professional work. The sections below provide direct access to my research projects, publications, software, datasets, portfolio, curriculum vitae, and ongoing developments. Whether your interest is in historical research, data science, programming, or digital solutions for organizations, each section has been organized to facilitate exploration of the corresponding materials.
 
-Feel free to explore the links below to learn more about my work and current projects.
+Feel free to explore the links above to learn more about my work and current projects.
