@@ -70,7 +70,7 @@ IT - Storico, docente e ricercatore in formazione con una prospettiva multidisci
 
 ### 3.3. Universitaria de grado | Undergraduate
 - **Profesor en Historia** – Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata (FaHCE‑UNLP)
-  - Inicio: 04/2010 – Finalización: 10/2020
+  - Inicio: 04/2010 – Finalización: 06/2021
   - Promedio sin aplazos: 8,48 | Promedio con aplazos: 8,25
 
 ### 3.4. Diplomaturas superiores | Higher diplomas
