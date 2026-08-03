@@ -50,11 +50,11 @@
 
 ## 2. Resumen ejecutivo | Executive summary
 
-GB - Historian, teacher, and early-career researcher with a multidisciplinary perspective bridging political and economic history, social theory, international relations, and data analysis. I hold a Doctoral Fellowship from CONICET at CEUR, where I am working on the project *“Perspectives and Limits of the Nuclear Industry in Argentina (1976‑2026)”*. My academic foundation is a History Teaching degree (FaHCE‑UNLP), supplemented by a PhD in Political Economy (UNSAM, in progress), a Master’s in Social Sciences (in progress), three postgraduate diplomas in education, and a Diploma in R Programming for Economics (UBA, near completion). I have advanced skills in R, Python, SQL, and web development, and I am proficient in Italian (C2), English (C1), and other languages. My output includes scientific publications, opinion columns in digital media, conference presentations, and sustained teaching experience at both secondary and university levels.
+GB - Historian, teacher, and early-career researcher with a multidisciplinary perspective bridging political and economic history, social theory, international relations, and data analysis. I hold a Doctoral Fellowship from CONICET at CEUR, where I am working on the project *“Perspectives and Limits of the Nuclear Industry in Argentina (1976‑2026)”*. My academic foundation is a History Teaching degree (FaHCE‑UNLP), supplemented by a PhD in Political Economy (UNSAM, in progress), three postgraduate diplomas in education, and a Diploma in R Programming for Economics (UBA, near completion). I have advanced skills in R, Python, SQL, and web development, and I am proficient in Italian (C2), English (C1), and other languages. My output includes scientific publications, opinion columns in digital media, conference presentations, and sustained teaching experience at both secondary and university levels.
 
-ES - Historiador, docente e investigador en formación con perspectiva multidisciplinaria que articula historia política y económica, teoría social, relaciones internacionales y análisis de datos. Becario Doctoral del CONICET en el CEUR, donde desarrollo el proyecto *“Perspectivas y límites de la industria nuclear en Argentina (1976‑2026)”*. Mi formación de base es el Profesorado en Historia (FaHCE‑UNLP), complementada con un Doctorado en Economía Política (UNSAM, en curso), una Maestría en Ciencias Sociales (en curso), tres diplomaturas superiores en educación y una Diplomatura en Programación en R aplicada a la Economía (UBA, próxima a finalizar). Poseo competencias avanzadas en R, Python, SQL y desarrollo web, y domino el italiano (C2), el inglés (C1) y otros idiomas. Mi producción incluye publicaciones científicas, columnas de opinión en medios digitales, participación en congresos y una sostenida labor docente en los niveles secundario y universitario.
+ES - Historiador, docente e investigador en formación con perspectiva multidisciplinaria que articula historia política y económica, teoría social, relaciones internacionales y análisis de datos. Becario Doctoral del CONICET en el CEUR, donde desarrollo el proyecto *“Perspectivas y límites de la industria nuclear en Argentina (1976‑2026)”*. Mi formación de base es el Profesorado en Historia (FaHCE‑UNLP), complementada con un Doctorado en Economía Política (UNSAM, en curso), tres diplomaturas superiores en educación y una Diplomatura en Programación en R aplicada a la Economía (UBA, próxima a finalizar). Poseo competencias avanzadas en R, Python, SQL y desarrollo web, y domino el italiano (C2), el inglés (C1) y otros idiomas. Mi producción incluye publicaciones científicas, columnas de opinión en medios digitales, participación en congresos y una sostenida labor docente en los niveles secundario y universitario.
 
-IT - Storico, docente e ricercatore in formazione con una prospettiva multidisciplinare che articola storia politica ed economica, teoria sociale, relazioni internazionali e analisi dei dati. Borsista di dottorato del CONICET presso il CEUR, dove sviluppo il progetto “Prospettive e limiti dell’industria nucleare in Argentina (1976‑2026)”. La mia formazione di base è il Profesorado in Storia (FaHCE‑UNLP), completata con un Dottorato in Economia Politica (UNSAM, in corso), un Master in Scienze Sociali (in corso), tre diplomi superiori in educazione e un Diploma in Programmazione R applicata all’Economia (UBA, in fase di completamento). Possiedo competenze avanzate in R, Python, SQL e sviluppo web, e padroneggio l’italiano (C2), l’inglese (C1) e altre lingue. La mia produzione include pubblicazioni scientifiche, rubriche d’opinione su media digitali, partecipazione a convegni e una costante attività didattica nelle scuole secondarie e universitarie.
+IT - Storico, docente e ricercatore in formazione con una prospettiva multidisciplinare che articola storia politica ed economica, teoria sociale, relazioni internazionali e analisi dei dati. Borsista di dottorato del CONICET presso il CEUR, dove sviluppo il progetto “Prospettive e limiti dell’industria nucleare in Argentina (1976‑2026)”. La mia formazione di base è il Profesorado in Storia (FaHCE‑UNLP), completata con un Dottorato in Economia Politica (UNSAM, in corso), tre diplomi superiori in educazione e un Diploma in Programmazione R applicata all’Economia (UBA, in fase di completamento). Possiedo competenze avanzate in R, Python, SQL e sviluppo web, e padroneggio l’italiano (C2), l’inglese (C1) e altre lingue. La mia produzione include pubblicazioni scientifiche, rubriche d’opinione su media digitali, partecipazione a convegni e una costante attività didattica nelle scuole secondarie e universitarie.
 
 ---
 
@@ -64,26 +64,22 @@ IT - Storico, docente e ricercatore in formazione con una prospettiva multidisci
 - **Doctorado en Economía Política** – Universidad Nacional de San Martín (UNSAM)
   - Inicio: 2026 – Estado: *En curso*
 
-### 3.2. Maestría | Master’s degree
-- **Maestría en Ciencias Sociales** – FaHCE‑UNLP / IDIHCS (CONICET‑UNLP)
-  - Inicio: 03/2022 – Estado: *En curso*
-
-### 3.3. Universitaria de grado | Undergraduate
+### 3.2. Universitaria de grado | Undergraduate
 - **Profesor en Historia** – Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata (FaHCE‑UNLP)
   - Inicio: 04/2010 – Finalización: 06/2021
   - Promedio sin aplazos: 8,48 | Promedio con aplazos: 8,25
 
-### 3.4. Diplomaturas superiores | Higher diplomas
+### 3.3. Diplomaturas superiores | Higher diplomas
 - (2023). *Diplomatura Superior en Alfabetización Digital*. (UFASTA). Promedio: 9,70.
 - (2023). *Diplomatura Superior en Evaluación Educativa*. UFASTA. Promedio: 7,94.
 - (2023). *Diplomatura Superior en Comunicación Institucional y Competencias Comunicativas en la Escuela*. UFASTA. Promedio: 9,62.
 - (2026). *Diplomatura en Programación en R aplicada a la Economía*. Facultad de Ciencias Económicas, Universidad de Buenos Aires (UBA).
 
-### 3.5. Estudios universitarios incompletos | Incomplete university studies
+### 3.4. studios universitarios incompletos | Incomplete university studies
 - Analista Programador Universitario – Facultad de Informática, UNLP (13,04 %)
 - Profesorado en Teatro – Escuela de Teatro de La Plata (24 %)
 
-### 3.6. Nivel medio y básico | Secondary and primary education
+### 3.5. Nivel medio y básico | Secondary and primary education
 - *Bachiller en Humanidades y Ciencias Sociales* – EES N° 34 (ex EES N° 49 Almafuerte), 2003‑2009.
 - *Educación Primaria* – Colegio Monseñor Alberti, La Plata, 1997‑2002.
 
